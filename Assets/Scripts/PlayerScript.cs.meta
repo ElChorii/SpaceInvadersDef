@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 034ee5860d0e01a459e0b50726b8e801
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - superBulletPrefab: {instanceID: 0}
+  - invertirPowerUp: {fileID: 7891669342353137210, guid: bc428bd7ca2fb224fb8fcf60b2fd7ac4, type: 3}
+  - velocidadDisparoPowerUp: {fileID: 7420069699375153392, guid: a9c52f510a42a234595e895ac92530de, type: 3}
+  - velocidadMovimientoPowerUp: {fileID: 4310587005715611989, guid: 088935c6aa8fb2e42be82152313f330d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
